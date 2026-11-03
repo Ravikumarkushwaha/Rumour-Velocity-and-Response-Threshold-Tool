@@ -1,0 +1,47 @@
+SAMPLE OUTPUT - claim SYN-001 (synthetic)
+
+Public intervention is not recommended at this stage. The observed circulation is low velocity (21 cumulative mentions), and the current velocity of 0.67 mentions/hour is below the configured response threshold (Response Pressure Score 0.02 against a threshold of 0.62). The estimated amplification risk is high: a public denial could introduce the claim to additional audiences (about 48.1x the current reach under the medium scenario). Continued monitoring is recommended, with reassessment if the rate of circulation, public reach or potential impact increases.
+
+1. Current circulation
+21 cumulative mentions were recorded over 24.0 hours across 9 observations. Circulation is classified as 'Low velocity'. Total mentions describe how much has been said so far, not how fast it is spreading.
+
+2. Current velocity
+The current velocity is 0.67 mentions/hour (previous interval: 0.67; moving average: 0.56). The configured Low-velocity ceiling is 5 and the High-velocity floor is 20 mentions/hour.
+
+3. Percentage growth
+Growth over the latest interval is 10.5%. A small percentage on a modest base does not indicate rapid spread.
+
+4. Acceleration
+Acceleration is 0.00 mentions/hour²: the rate of spread is essentially steady (+0.00 mentions/hour²).
+
+5. Estimated public reach / data availability
+Estimated public reach is 520 people (estimated figure from 9 reading(s); data confidence: Moderate). Independent sources: 5 (explicit independent-source count). Engagement counts are not treated as audience. Reach changed by +4.0% in the latest interval.
+
+6. Amplification risk
+Amplification risk is High under the 'medium' scenario. An assumed response audience of 50,000 people would add roughly 10,000 (low), 25,000 (medium) or 50,000 (high) new exposures against a current reach of 520, i.e. amplification ratios of 19.23, 48.08 and 96.15. These are hypothetical scenario estimates, not predictions.
+
+7. Comparison with response thresholds
+The Response Pressure Score is 0.02 on a 0-1 scale. It is below the silence ceiling of 0.30 by 0.28 and 0.60 below the response-review threshold of 0.62. Threshold context: Amplification risk High: a response carries more exposure risk, so the response bar is raised; Verification status 'Verified false': response bar adjusted. Thresholds are experimental, not official policy.
+
+8. Why a public denial is not currently recommended
+A public denial is not currently recommended because a denial could expose the claim to several times its current audience (ratio 48.1x), turning a limited rumour into a much larger one; circulation is below the response threshold (0.02 vs 0.62); no urgent public-impact indicator is recorded (impact rated Low; no safety or credible-allegation flag); and the claim is not spreading quickly ('Low velocity'). An official denial is itself a public act that can signal that a claim merits an official answer. Declining to respond now is a decision that can be reversed at any time; a published denial cannot be recalled. The cost of staying silent is currently limited: the hardening index is 0.01 (Low); reach is 1.0% of the 50,000-person hardening point and the claim has been in circulation 24 h. If reach keeps growing at the observed rate, the hardening point would be approached in about 150 h (a straight-line extrapolation, not a prediction), which is why the claim stays under watch.
+
+9. What continues to be monitored
+- Cumulative mentions, velocity, percentage growth and acceleration at every new observation.
+- Estimated reach and number of independent sources (reach is never inferred; update it when evidence exists).
+- Whether the claim is picked up by new source categories, in particular credible or mainstream outlets.
+- Variants, reposts or related claims, so they are not counted as separate independent evidence.
+- Any change to verification status, public impact or safety indicators.
+- Hardening indicators (reach, time in circulation, independent sources): is the claim starting to be treated as established fact?
+
+10. Conditions that would change the recommendation
+- Reassess at the next observation, and no later than 3 hour(s) from the last one.
+- Response Pressure Score reaches 0.62 (currently 0.02) -> refer for response review.
+- Response Pressure Score reaches the silence ceiling 0.30 -> move to MONITOR.
+- Velocity reaches 20 mentions/hour (High) or acceleration reaches +2/h² (currently 0.67/h).
+- Estimated reach grows by 25% or more in one interval, or exceeds 100,000 people.
+- Hardening index reaches 0.60 (High): reach near 50,000 people, persisting for 24+ hours with 5+ independent sources.
+- Public impact is re-rated to High, a public-safety or credible-allegation flag is raised, or the claim is verified false with high impact (mandatory escalation).
+- Verification status changes (e.g. the claim is found to be true or partly true).
+
+Silence is not the absence of action. It is a deliberate, evidence-based strategic communication decision supported by continuous monitoring and clearly defined intervention thresholds.

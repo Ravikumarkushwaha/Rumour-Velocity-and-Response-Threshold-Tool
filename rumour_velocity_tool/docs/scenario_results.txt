@@ -1,0 +1,12 @@
+Authored fictional scenario regression checks - not real-world validation
+  Claim                                                          Scenario                                        Expected                                          Actual  Match      RPS Reach confidence
+SYN-001     1. Limited circulation, low velocity, high amplification risk                                   REMAIN SILENT                                   REMAIN SILENT   True 0.023183         Moderate
+SYN-002                   2. Moderate circulation, uncertain verification                                         MONITOR                                         MONITOR   True 0.297242         Moderate
+SYN-003      3. Rapidly increasing circulation, significant public impact                       RECOMMEND RESPONSE REVIEW                       RECOMMEND RESPONSE REVIEW   True 0.889462         Moderate
+SYN-004                   4. High historical reach but declining velocity                                         MONITOR                                         MONITOR   True 0.374232         Moderate
+SYN-005 5. Serious credible public-safety allegation with low circulation                       RECOMMEND RESPONSE REVIEW                       RECOMMEND RESPONSE REVIEW   True 0.036328         Moderate
+SYN-006                                      6. Insufficient observations INSUFFICIENT DATA / HUMAN VERIFICATION REQUIRED INSUFFICIENT DATA / HUMAN VERIFICATION REQUIRED   True 0.275000             None
+SYN-007                              7. Low velocity but increasing reach                                         MONITOR                                         MONITOR   True 0.202571         Moderate
+SYN-008   8. Rapid circulation, high uncertainty, high amplification risk                                         MONITOR                                         MONITOR   True 0.693053         Moderate
+SYN-009    Extra A. Verified TRUE claim (a denial would be inappropriate)                                         MONITOR                                         MONITOR   True 0.162734             High
+SYN-010                     Extra B. Stable, tiny circulation, low impact                                   REMAIN SILENT                                   REMAIN SILENT   True 0.010470         Moderate
